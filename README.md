@@ -1,4 +1,4 @@
-# EX05 Implementation of Logistic Regression Using Gradient-Descent
+# EX06 Implementation of Logistic Regression Using Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
@@ -18,8 +18,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Program:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
-Name : Sushindhiran A
-RegisterNumber:  212224020054
+Name : Mohamed Abdullah A
+RegisterNumber:  212224020029
 ```
 ```python
 import pandas as pd
